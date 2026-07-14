@@ -1,7 +1,36 @@
+
+
+
 # pensamento_computacional_projeto
 primeiro repositório para praticas e verscionamento de github e prompts de comandos
 
 ````md
+### 🚀 Funcionalidades Principais
+
+* **Cadastro de Produtos:** Adiciona novos produtos com nome, estoque, preço, validade e descrição.
+* **Listagem de Produtos:** Exibe todos os produtos cadastrados.
+* **Realização de Vendas:** Calcula o valor total da venda e atualiza o estoque.
+* **Visualização de Detalhes:** Mostra todas as informações do produto selecionado.
+* **Exclusão de Produtos:** Remove produtos do sistema mediante confirmação.
+* **Saída do Sistema:** Encerra o programa com confirmação do usuário.
+
+### 🛠️ Tecnologias e Estruturas Utilizadas
+
+* **Listas (`[]`):** Armazenamento dos produtos cadastrados.
+* **Dicionários (`{}`):** Organização dos dados de cada produto.
+* **Laços de Repetição (`for`):** Percorre a lista de produtos para busca e exibição.
+* **Condicionais (`if/elif/else`):** Validação de dados, estoque e operações.
+* **Tkinter:** Interface gráfica do sistema.
+* **MessageBox:** Exibição de mensagens de erro, aviso e sucesso.
+
+### 🏗️ Panorama Geral: O Sistema de Vendas
+
+1. Exibe a interface com os produtos cadastrados.
+2. Recebe os dados do usuário para cadastro ou venda.
+3. Valida as informações inseridas.
+4. Processa a operação (cadastro, venda, exclusão ou consulta).
+5. Atualiza a lista de produtos e o estoque automaticamente.
+
 # 🍧 Sistema de Vendas - Açaiteria
 
 Sistema desenvolvido em **Python** utilizando a biblioteca **Tkinter** para realizar o gerenciamento de produtos de uma açaiteria.
